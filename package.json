@@ -23,6 +23,7 @@
     "eslint": "^7.6.0",
     "eslint-config-prettier": "^6.11.0",
     "husky": "^4.2.1",
+    "lightning": "^2.0.41",
     "lint-staged": "^10.0.7",
     "prettier": "^2.0.5",
     "prettier-plugin-apex": "^1.6.0"
@@ -42,6 +43,7 @@
   },
   "dependencies": {
     "@salesforce/schema": "0.0.12",
-    "@salesforce/user": "0.0.12"
+    "@salesforce/user": "0.0.12",
+    "lwc": "^1.7.12"
   }
 }
